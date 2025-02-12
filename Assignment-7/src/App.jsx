@@ -5,8 +5,8 @@ import ProductList from './Components/ProductList'
 const App = () => {
   return (
     <>
-    <UserList/>
-    <ProductList />
+      <UserList />
+      <ProductList />
     </>
   )
 }
